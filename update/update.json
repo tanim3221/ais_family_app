@@ -1,5 +1,7 @@
 {
   "url": "https://github.com/tanim3221/ais_family_app/raw/master/app/release/app-release.apk",
   "versionCode": 16,
-  "updateMessage": "What's new***\n\n- Some other minor bug fix."
+  "updateMessage": "What's new***\n\n- Some other minor bug fix.",
+  "link": "https://github.com",
+  "message": "Welcome to AIS Family App."
 }
